@@ -1,0 +1,5 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS ecom_database;
+-- CREATE DATABASE
+CREATE DATABASE ecom_database;
+
